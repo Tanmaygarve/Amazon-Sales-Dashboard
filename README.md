@@ -1,4 +1,4 @@
-Dashboard Overview
+Amazon Sales Data - Dashboard Overview ( INTERNSHIP TASK -2 )
 • This dashboard shows the sales performance of Amazon. It includes total profit, revenue, units sold, and 
 breakdowns by region, year, sales channel, and order priority.
 Main Highlights
